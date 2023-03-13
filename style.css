@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.tela {
+    display: flex;
+    height: 100vh;
+}
+.ladoEsquerdo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ladoEsquerdo img {
+    width: 80%;
+    height: auto;
+}
+.ladoDireito {
+    width: 430px;
+    background-color: #999;
+}
