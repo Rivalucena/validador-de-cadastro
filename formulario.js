@@ -34,7 +34,9 @@ let validador = {
                         }
                     break;
                     case 'min':
-
+                        if(input.value.length < rDetails[1]) {
+                            return 'Campo tem que ter pelo menos ' +rDetails[1]+ 'caractes';
+                        }
                     break;
                 }
             }
