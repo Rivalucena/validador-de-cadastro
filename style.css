@@ -21,8 +21,13 @@ body {
 }
 .ladoDireito {
     width: 430px;
-    background-color: #ddd;
+    background-color:	#00BFFF;
     padding: 50px;
+}
+.ladoDireitoH1 {
+    color: #000000;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .ladoDireito label {
     display: block;
@@ -30,7 +35,7 @@ body {
 }
 .ladoDireito input {
     width: 100%;
-    border: 1px solid #999;
+    border: 1px solid 	#ddd;
     border-radius: 3px;
     padding: 7px;
     font-size: 14px;
