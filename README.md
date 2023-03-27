@@ -8,13 +8,13 @@ https://validadordeformulario.netlify.app
 
 Validador de cadastro é uma aplicação web e mobile construida durante a mentoria do Pedro Marins na **comunidade code** (https://comunidadecode.com/).
 
-A aplicação consiste num sitema que capta os dados forcecidos pelo usuario e validade esses dados, caso nao esteja conforme o usuario vai receber uma mensagem de tela especificando que tipo de campo é aquele e instrui o msm a inserir os dados corretamente.
+A aplicação consiste num sitema que capta os dados forcecidos pelo usuario e valida esses dados, caso não esteja conforme o usuário vai receber uma mensagem de tela especificando que tipo de campo é aquele e instrui o mesmo a inserir os dados corretamente.
 
 ![validador-de-cadastro](./images/img1.jpg)
 
 
 ## Indice
-- <a href="#-tecnologias-utilizadas"> Tecnologias utilizadas </a>
+- <a href="-tecnologias-utilizadas"> Tecnologias utilizadas </a>
 - <a href="funcionalidades-doprojeto" >funcionalidades do projeto </a>
 - <a href="demonstracao"> Demonstração </a>
 - <a href="como-rodar-esse-projeto">Como rodar esse projeto</a>
